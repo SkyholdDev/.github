@@ -24,7 +24,7 @@
   </defs>
 
   <style>
-    /* Time Vault Float & Glow Animation */
+    /* Time Vault Float and Glow Animation */
     @keyframes float {
       0% { transform: translateY(0px); }
       50% { transform: translateY(-4px); }
