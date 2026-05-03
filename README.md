@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.svg" alt="Skyhold Logo" width="120" />
+</div>
+
 # Welcome to Skyhold
 
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
