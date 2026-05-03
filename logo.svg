@@ -55,21 +55,21 @@
     <!-- Left Shard -->
     <g class="shard shard-left">
       <!-- Main Face -->
-      <polygon points="99,10 80,150 99,190" fill="url(#mainLeft)"/>
+      <polygon points="98,10 40,130 98,190" fill="url(#mainLeft)"/>
       <!-- Top Bevel -->
-      <polygon points="99,10 74,145 80,150" fill="url(#bevelLeft)"/>
+      <polygon points="98,10 10,130 40,130" fill="url(#bevelLeft)"/>
       <!-- Bottom Bevel -->
-      <polygon points="80,150 74,145 99,190" fill="url(#bevelLeft)"/>
+      <polygon points="40,130 10,130 98,190" fill="url(#bevelLeft)"/>
     </g>
 
     <!-- Right Shard -->
     <g class="shard shard-right">
       <!-- Main Face -->
-      <polygon points="101,10 120,150 101,190" fill="url(#mainRight)"/>
+      <polygon points="102,10 160,130 102,190" fill="url(#mainRight)"/>
       <!-- Top Bevel -->
-      <polygon points="101,10 126,145 120,150" fill="url(#bevelRight)"/>
+      <polygon points="102,10 190,130 160,130" fill="url(#bevelRight)"/>
       <!-- Bottom Bevel -->
-      <polygon points="120,150 126,145 101,190" fill="url(#bevelRight)"/>
+      <polygon points="160,130 190,130 102,190" fill="url(#bevelRight)"/>
     </g>
   </g>
 </svg>
